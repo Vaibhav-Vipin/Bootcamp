@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - MUMBAI  || 23 Jun 2021 | 09:55:17 AM
+-------------------------------------------------------------
+Current temperature is: 31.99 deg C
+Current weather desc  : smoke
+Current Humidity      : 70 %
+Current wind speed    : 4.63 kmph
